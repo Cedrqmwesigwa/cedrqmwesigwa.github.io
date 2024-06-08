@@ -1,4 +1,4 @@
-##  Cedrq Mwesigwa's Machine Learning Portfolio
+ Cedrq Mwesigwa's Machine Learning Portfolio
 
 This repository contains the source code for my personal website, a portfolio showcasing my work as a Machine Learning Engineer.
 
